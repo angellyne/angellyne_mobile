@@ -1,0 +1,8 @@
+var primeiranota = Number(prompt("digite a nota um"));
+
+var segundanota = Number(prompt("digite a nota dois"));
+
+var terceiranota = Number(prompt("digite a nota tres"));
+
+ alert ((notaum + notadois + notatres) /3)
+
